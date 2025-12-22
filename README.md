@@ -46,4 +46,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zehraygtgl&" alt="zehraygtgl" /></p>
 
-![snake gif](https://github.com/zehraygtgl/zehraygtgl/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/zehraygtgl/zehraygtgl/blob/output/github-contribution-grid-snake.svg)
