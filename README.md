@@ -43,3 +43,7 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zehraygtgl&show_icons=true&locale=en" alt="zehraygtgl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zehraygtgl&" alt="zehraygtgl" /></p>
+
+![snake gif](https://github.com/zehraygtgl/zehraygtgl/blob/output/github-contribution-grid-snake.gif)
